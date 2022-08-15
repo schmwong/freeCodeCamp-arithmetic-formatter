@@ -63,7 +63,7 @@ The function will return the correct conversion if the supplied problems are pro
 
 ### Development
 
-Write your code in `arithmetic_arranger.py`. For development, you can use `main.py` to test your `arithmetic_arranger()` function. Click the "run" button and `main.py` will run.
+Write your code in [`arithmetic_arranger.py`](https://github.com/schmwong/freeCodeCamp-arithmetic-formatter/blob/main/arithmetic_arranger.py). For development, you can use `main.py` to test your `arithmetic_arranger()` function. Click the "run" button and `main.py` will run.
 
 ### Testing
 
